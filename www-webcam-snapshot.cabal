@@ -23,7 +23,7 @@ executable www-webcam-snapshot
 
   other-extensions:    QuasiQuotes, TemplateHaskell, TypeFamilies
 
-  ghc-options:         -Wall -fllvm -O2 -threaded
+  ghc-options:         -Wall -O2 -threaded
 
   build-depends:       base >=4.7
                      , bytestring >= 0.10

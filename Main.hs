@@ -4,6 +4,7 @@
 {-# LANGUAGE RecordWildCards       #-}
 {-# LANGUAGE TemplateHaskell       #-}
 {-# LANGUAGE TypeFamilies          #-}
+{-# LANGUAGE ViewPatterns          #-}
 
 module Main where
 

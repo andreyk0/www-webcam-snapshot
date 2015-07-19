@@ -1,0 +1,6 @@
+flags: {}
+packages:
+- '.'
+- '../select-0.4.0.1'
+extra-deps:
+resolver: lts-2.18

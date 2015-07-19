@@ -1,6 +1,4 @@
-.cabal-sandbox
-cabal.sandbox.config
-client_session_key.aes
-CWebcam.hs
-CWebcam_hsc_*
-dist
+/client_session_key.aes
+/CWebcam.hs
+/CWebcam_hsc_*
+/.stack-work
